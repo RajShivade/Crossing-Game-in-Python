@@ -111,3 +111,6 @@ The Turtle Crossing Game project demonstrates the use of Python’s turtle modul
    - Implementing collision detection, level progression, and game-over conditions enriched the gaming experience.
 
 # Output:
+![output1](https://github.com/user-attachments/assets/05bf7b52-f2a5-4566-afd0-4f0bf685d154)
+
+![output2](https://github.com/user-attachments/assets/e43b0743-9980-4b58-b156-a4a96045e97a)
