@@ -1,5 +1,5 @@
 # Turtle Crossing Game in Python🐢🚗:- 
-# 1. Introduction
+# 1. Introduction. 
 The Turtle Crossing Game is a Python-based graphical game inspired by the classic arcade game Frogger. It is developed using the turtle module, one of Python's standard libraries for creating simple graphics. The player controls a turtle attempting to cross a road filled with cars. The primary objective is to help the turtle cross the road while avoiding collisions with cars. With each successful crossing, the difficulty increases as cars move faster, making it more challenging to progress.
 
 # 2. Project Objectives.
@@ -12,7 +12,7 @@ The primary goals of this project are:
 
 - **Game logic:** Basic concepts like collision detection, level progression, and game-over conditions are implemented in the game.
 
-# 3. Methodology
+# 3. Methodology.
 **3.1 Technologies Used:**
 - **Python:** The game is entirely coded in Python, using the turtle library for GUI and graphics, and the time module to control the flow of the game.
 
